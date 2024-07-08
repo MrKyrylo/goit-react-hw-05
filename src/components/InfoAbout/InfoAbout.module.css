@@ -1,0 +1,12 @@
+.boxForMovie {
+    display: flex;
+    gap: 40px;
+
+    margin-top: 10px;
+
+    border-bottom: 2px solid black;
+}
+
+.Image {
+    width: 300px;
+}

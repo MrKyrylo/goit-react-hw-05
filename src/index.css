@@ -1,0 +1,29 @@
+ul {
+  display: flex;
+  flex-direction: column;
+}
+
+.castUl {
+  border-top: 2px solid black;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.person {
+  border: 1px solid darkblue;
+  list-style: none;
+  width: 150px;
+  text-align: center;
+}
+
+.placeForImg {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.personImg {
+  width: 100px;
+}

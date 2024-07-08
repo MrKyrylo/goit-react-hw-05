@@ -1,0 +1,15 @@
+.navPlace {
+    display: flex;
+    gap: 20px;
+
+    background: #9dc8f0;
+}
+
+.linkElement {
+    text-decoration: none;
+    color: black;
+}
+
+.linkElement.isActive {
+    color: red;
+}
